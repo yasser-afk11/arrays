@@ -1,5 +1,8 @@
 #include <iostream>
-// IDK WHY BUT IT DOSENT SHOW THE FIRST CIN , BUT IF YOU COPY-PASTE IN ONLINE COMPILER IT WORK PEREFECTLY
+//i know its not somthing big , and it not the best thing it could be , but im working on it to make more simple 
+//im just applying what i have learned lately
+//if you have any feedbacks pleeeeeas write them
+//and thank yu ;)
 
 using namespace std;
 int main() 
